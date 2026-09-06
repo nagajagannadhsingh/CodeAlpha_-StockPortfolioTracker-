@@ -1,5 +1,4 @@
 import random
-
 # List of 5 predefined words
 words = ["python", "computer", "programming", "developer", "keyboard"]
 # Select a random word
